@@ -1,13 +1,14 @@
+#YouTube Video Downloader
+
 This repo contains code to download any YouTube Video/Playlist
 
 Steps To Download Videos:-
 
 1. Copy Video/Playlist URL from youtube
 2. Run Main.py (Before executing check the download path. Provide proper path to download)
-3. Select your option from menu
-4. Paste your link.
-5. Done. The Video/Playlist will be downloaded to the specified path.
-6. Enjoy :-)
+3. Paste your link.
+4. Done. The Video/Playlist will be downloaded to the specified path.
+5. Enjoy :-)
 
 Note :-
 
