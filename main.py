@@ -73,6 +73,7 @@ def downloader(link):
                 messagebox.showinfo('Successful!',rf'{i}/{a} Video Downloaded Successfully. Path: {Path}')
                 i = 1
                 a = 1
+                b = 1
                 button1.configure(state= NORMAL )
             else:
                 i+=1
